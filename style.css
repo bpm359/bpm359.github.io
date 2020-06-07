@@ -1,0 +1,35 @@
+
+body {
+    text-align: center;
+    color: black;
+    background-color: rgb(221, 170, 104)
+    
+}
+
+button {
+    display: block;
+}
+
+.largest-div {
+    border: 3px solid black;
+    width: 75%;
+    margin: 0 auto;
+    flex-direction: row;
+ 
+}
+
+#button {
+    margin: 25px;
+}
+
+.flexbox-for-cat-images {
+    border: 1px solid blue;
+    flex-wrap: wrap;
+    margin: 10px;
+        justify-content: space-around;
+
+}
+.flexbox-for-cat-images img {
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0,0,0.7)
+}
