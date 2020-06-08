@@ -23,9 +23,10 @@ button {
 }
 
 .flexbox-for-cat-images {
+    width: 95%;
     flex-wrap: wrap;
     margin: 10px;
-        justify-content: space-around;
+    justify-content: space-around;
 
 }
 .flexbox-for-cat-images img {
